@@ -10,3 +10,4 @@
      - #### go to https://www.mysonicwall.com/muir/freedownloads
      - #### open the package menu and select NetExtender
      - #### search for NetExtender Linux TGZ 64-Bit, click the download icon on the right (Note: the tar file can also be downloaded from MapR google drive -> Shared Drives -> IT_Public -> Downloads -> NetExtender VPN -> Ubuntu)
+![Screenshot-1](image.2PXWG0.png)
