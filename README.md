@@ -1,10 +1,10 @@
 # Mapr hew hire instructions
 ## How to Install Sonicwall VPN Client - NetExtender On Ubuntu 18.04
 1. ### Install Sun Java JDK 1.8.x
-  ```u:~$ sudo apt-get istall -y common-software-properties
-     u:~$ sudo add-apt-repository ppa:webupd8team/java
-     u:~$ sudo apt update -y
-     u:~$ sudo apt install -y default-jre openjdk-8-jre-headless
+  ```sudo apt-get istall -y common-software-properties
+     sudo add-apt-repository ppa:webupd8team/java
+     sudo apt update -y
+     sudo apt install -y default-jre openjdk-8-jre-headless
   ```
  2. ### Download NetExtender.Linux.x.x.yyy.x86_64.tgz
      - #### go to https://www.mysonicwall.com/muir/freedownloads
